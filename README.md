@@ -6,7 +6,7 @@
 
 ### Screenshot
 
-![](./alura-spa)
+![](./alura-spa.png)
 
 ### Links
 
